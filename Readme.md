@@ -12,4 +12,4 @@ Aplikasi ini memproses:
 ## Root Package
 
 ```txt
-com.kontra
+com.kontra.astrosyncs
