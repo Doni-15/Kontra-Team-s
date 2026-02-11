@@ -1,4 +1,4 @@
-# AstroSyncs (Kontra Team)
+# AstroSyncs (Konter Team)
 
 AstroSyncs adalah aplikasi **Intelligent Scheduling Assistant** berbasis web yang membantu mahasiswa dalam mencari jadwal kosong bersama untuk kerja kelompok, rapat organisasi, atau diskusi tugas.
 
@@ -11,7 +11,7 @@ Aplikasi ini memproses:
 
 # ATURAN TIM (WAJIB DIPATUHI)
 
-Dokumen ini berisi aturan coding dan struktur folder untuk project **AstroSyncs (Kontra Team)**.  
+Dokumen ini berisi aturan coding dan struktur folder untuk project **AstroSyncs (Konter Team)**.  
 Tujuannya supaya:
 - kerja tim rapi
 - tidak tabrakan file
