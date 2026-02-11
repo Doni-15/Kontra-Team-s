@@ -7,15 +7,14 @@ Dokumentasi struktur folder, aturan penamaan, dan aturan kerja tim untuk backend
 Semua file Java wajib berada di:
 
 ```txt
-src/com/kontra/astrosyncs
+src/com/konter/astrosyncs
 ```
 
 ---
 
 ## 1) Pembagian Folder
-
 ```txt
-com.kontra.astrosyncs  
+com.konter.astrosyncs  
 │                                                              
 ├── config/          # konfigurasi (CORS, scheduler, security) 
 ├── controller/      # endpoint REST API                       
@@ -33,32 +32,47 @@ com.kontra.astrosyncs
 ---
 
 ## 2) Aturan Penamaan File
-Semua file Java wajib pakai prefix:                                 <br> &nbsp;&nbsp;&nbsp;&nbsp;
-    Kontra_
 
-Contoh:                                                             <br> &nbsp;&nbsp;&nbsp;&nbsp;
-    Kontra_User.java
+Semua file Java wajib pakai prefix:                                 
+    konter_
+
+```txt
+Contoh:                                                             
+    konter_User.java
+```
 
 Ini wajib supaya konsisten dan mudah dicari (Biar keren 🥶☠️).
 
 ---
 
 ## 3) Maksimal 200 Baris per File
-Setiap file usahakan maksimal 200 baris.                            <br>
-Kalau lewat:                                                        <br> &nbsp;&nbsp;&nbsp;&nbsp;
-    pecah jadi file baru atau pindahkan logika ke service/ / util/
+Setiap file usahakan maksimal 200 baris.     
 
-Tujuan:                                                             <br> &nbsp;&nbsp;&nbsp;&nbsp;
+```txt
+Kalau lewat:                                                        
+    pecah jadi file baru atau pindahkan logika ke service/ atua util/
+```
+
+```txt
+Tujuan:                                                             
     supaya gampang dibaca.
+```
 
 ---
 
 ## 4) Aturan Git (Wajib)
-Branch yang dipakai:                                                <br> &nbsp;&nbsp;&nbsp;&nbsp;
+
+```txt
+Branch yang dipakai:                                                
     main → versi final
+```
 
-Aturan branch:                                                      <br> &nbsp;&nbsp;&nbsp;&nbsp;
-    nama-yang-ngerjain/nama-fitur → kerja masing-masing
+```txt
+Aturan branch:                                                      
+    nama-yang-ngerjain/nama-fitur --> kerja masing-masing
+```
 
-Contoh:                                                             <br> &nbsp;&nbsp;&nbsp;&nbsp;
+```txt
+Contoh:                                                             
     doni-simamora/login-api
+```

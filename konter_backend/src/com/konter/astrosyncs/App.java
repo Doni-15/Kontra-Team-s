@@ -1,4 +1,4 @@
-package com.kontra.astrosyncs;
+package com.konter.astrosyncs;
 
 public class App {
     public static void main(String[] args) {
