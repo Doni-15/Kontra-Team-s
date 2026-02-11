@@ -14,19 +14,21 @@ src/com/kontra/astrosyncs
 
 ## 1) Pembagian Folder
 
-com.kontra.astrosyncs                                               <br>
-│                                                                   <br>
-├── config/          # konfigurasi (CORS, scheduler, security)      <br>
-├── controller/      # endpoint REST API                            <br>
-├── dto/             # request/response object                      <br>
-│   ├── request/                                                    <br>
-│   └── response/                                                   <br>
-├── entity/          # class model (tabel database)                 <br>
-├── enums/           # enum (Role, Status, dll)                     <br>
-├── repository/      # akses database (JPA Repository)              <br>
-├── service/         # business logic utama                         <br>
-├── util/            # helper kecil (converter, time helper)        <br>
-└── exception/       # custom error & handler                       <br>
+```txt
+com.kontra.astrosyncs  
+│                                                              
+├── config/          # konfigurasi (CORS, scheduler, security) 
+├── controller/      # endpoint REST API                       
+├── dto/             # request/response object                 
+│   ├── request/                                               
+│   └── response/                                              
+├── entity/          # class model (tabel database)            
+├── enums/           # enum (Role, Status, dll)                
+├── repository/      # akses database (JPA Repository)         
+├── service/         # business logic utama                    
+├── util/            # helper kecil (converter, time helper)   
+└── exception/       # custom error & handler                  
+```
 
 ---
 
