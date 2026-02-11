@@ -1,8 +1,9 @@
 {
-    "editor.fontFamily": "'Droid Sans Mono', monospace",
-    "editor.fontSize": 15,
-    "window.zoomLevel": 0.2,
-    "workbench.colorTheme": "Default Dark Modern",
-    "workbench.iconTheme": "vscode-icons",
-    "explorer.compactFolders": false
+  "editor.fontSize": 4,
+  "editor.lineHeight":100,
+  "editor.wordWrap": "on",
+  "editor.minimap.enabled": true,
+  "editor.cursorBlinking": "expand",
+  "editor.cursorStyle": "block",
+   "window.zoomLevel": 2,
 }
