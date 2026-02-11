@@ -9,7 +9,14 @@ Aplikasi ini memproses:
 
 ---
 
-## Root Package
+# ATURAN TIM (WAJIB DIPATUHI)
 
-```txt
-com.kontra.astrosyncs
+Dokumen ini berisi aturan coding dan struktur folder untuk project **AstroSyncs (Kontra Team)**.  
+Tujuannya supaya:
+- kerja tim rapi
+- tidak tabrakan file
+- kode mudah dibaca
+- mudah dinilai dosen
+- sesuai standar OOP Java
+
+---
